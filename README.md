@@ -18,6 +18,7 @@ The setup is basically this:
 - Raspberry PI
   - respeaker software
   - [odaslive](https://github.com/introlab/odas)
+  - [ws](https://github.com/websockets/ws) install with `sudo npm install ws` 
   - [pm2](https://pm2.keymetrics.io/docs/usage/quick-start/) startup (`systemctl enable pm2-pi`)
 
 ## Running the odaslive binary
